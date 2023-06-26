@@ -1,1 +1,6 @@
-This is the Mycroft workshop page
+---
+layout: default
+title: Mycroft Workshop
+---
+
+In this workshop, we will show you some mycroft!
