@@ -11,14 +11,8 @@ You can find the code for the complete game at the [Github repository](https://g
 
 # Polls
 
-<details>
-<summary>What would you say to a voice assistant to start the game? </summary>
+- **What would you say to a voice assistant to start the game?** Click [here](https://app.sli.do/event/peUt6rKRQkG4Gm1ZE1hKSp/embed/polls/b99843b4-0d9b-44fc-af1d-82159ef4d24d) to put in your suggestion.
 
-
-Click [here](https://app.sli.do/event/peUt6rKRQkG4Gm1ZE1hKSp) to put in your suggestion.
-
-
-</details>
 
 # Credits
 Katja Konermann <br>
