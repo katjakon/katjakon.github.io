@@ -2,6 +2,7 @@
 layout: default
 title: Technical Aspects
 parent: Mycroft Workshop
+grand_parent: Projects
 ---
 
 # Technical Aspects

@@ -2,6 +2,7 @@
 layout: default
 title: More Resources
 parent: Mycroft Workshop
+grand_parent: Projects
 ---
 
 # Further Resources
