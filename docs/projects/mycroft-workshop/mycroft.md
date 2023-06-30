@@ -8,4 +8,5 @@ nav_order: 1
 
 # Using Mycroft: Installation & Creating Skills
 
-{: .warning } To install Mycroft, you need to have Linux installed.
+{: .warning } 
+> To install Mycroft, you need to have Linux installed.
