@@ -36,7 +36,7 @@ Example:
 ```
 self.speak("Hello, how are you?")
 ```
--`speak_dialog`:<br>
+- `speak_dialog`:<br>
 [Documentation](https://mycroft-core.readthedocs.io/en/latest/source/mycroft.html#mycroft.MycroftSkill.speak_dialog)<br>
 With `self.speak_dialog, Mycroft speaks a random phrase from a dialog file.<br>
 Example:

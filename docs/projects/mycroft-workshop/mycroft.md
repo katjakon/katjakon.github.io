@@ -18,8 +18,8 @@ Please check out the instructions on their website. At least for me on Linux, th
 
 ## Creating your first skill
 [Documentation](https://mycroft-ai.gitbook.io/docs/skill-development/introduction/your-first-skill)
-To create your first skill, run the following command from command line.
-```mycroft-msk create```
+To create your first skill, run the following command from command line.<br>
+```mycroft-msk create```<br>
 This will guide you through all the necessary steps interactively.
 
 
