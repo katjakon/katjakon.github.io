@@ -29,35 +29,30 @@ Then we extract some data from a dictionary and finally let Mycroft speak a sent
 
 ## Making Mycroft speak
 There are several different ways for making Mycroft speak, each serving a specific purpose.
-
-1.`speak` :<br>
+- `speak` :<br>
 [Documentation](https://mycroft-core.readthedocs.io/en/latest/source/mycroft.html#mycroft.MycroftSkill.speak)<br>
 With `self.speak`, Mycroft speaks a given input string.<br>
 Example:
 ```
 self.speak("Hello, how are you?")
 ```
-
-2. `speak_dialog`:<br>
+-`speak_dialog`:<br>
 [Documentation](https://mycroft-core.readthedocs.io/en/latest/source/mycroft.html#mycroft.MycroftSkill.speak_dialog)<br>
 With `self.speak_dialog, Mycroft speaks a random phrase from a dialog file.<br>
 Example:
 ```
 self.speak_dialog("hello.dialog")
 ```
-
-3. `get_response`: <br>
+- `get_response`: <br>
 [Documentation](https://mycroft-core.readthedocs.io/en/latest/source/mycroft.html#mycroft.MycroftSkill.get_response)<br>
 If you expect an immediate reponse from the user, use `self.get_response`. It returns the user's reply to you.<br>
 Example:
 ```
 response = self.get_response("What is your favorite animal?")
 ```
-
-4. `ask_yesno`: <br>
+- `ask_yesno`: <br>
 [Documentation](https://mycroft-core.readthedocs.io/en/latest/source/mycroft.html#mycroft.MycroftSkill.ask_yesno)<br>
-If you want to ask a yes or no question, it is advised to use `self.ask_yesno` as this method also captures reponses like *yeah* or *nah*.
-
+If you want to ask a yes or no question, it is advised to use `self.ask_yesno` as this method also captures reponses like *yeah* or *nah*.<br>
 Example:
 ```
 yes_no = self.ask_yesno("Do you like animals?")
