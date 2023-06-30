@@ -27,9 +27,10 @@ You can find the code for the complete game at the [Github repository](https://g
 # The Game
 We want to implement a game played with a voice assistant where you try to guess an animal based on hints. This is how we imagined the structure of the dialogue:
 
-![Flow Diagram of Game Dialogue](/docs/assets/dialogue.png)
+![Flow Diagram of Game Dialogue](/docs/projects/mycroft-workshop/assets/dialogue.png)
 
 You can take also take a look at the database that contains the animals and hints.
+
 [Database](https://github.com/katjakon/mycroft-word-game-skill/blob/master/cache/wordnet-animals.csv){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 # Credits
