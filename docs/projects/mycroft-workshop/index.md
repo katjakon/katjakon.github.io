@@ -27,7 +27,8 @@ You can find the code for the complete game at the [Github repository](https://g
 # The Game
 We want to implement a game played with a voice assistant where you try to guess an animal based on hints. This is how we imagined the structure of the dialogue:
 
-![Flow Diagram of Game Dialogue](/docs/assets/dialogue.png)
+
+<img src="/docs/assets/dialogue.png" width="200" />
 
 You can take also take a look at the database that contains the animal and hints.
 
