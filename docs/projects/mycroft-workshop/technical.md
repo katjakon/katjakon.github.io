@@ -32,8 +32,7 @@ There are several different ways for making Mycroft speak, each serving a specif
 
 1.`speak` :<br>
 [Documentation](https://mycroft-core.readthedocs.io/en/latest/source/mycroft.html#mycroft.MycroftSkill.speak)<br>
-With `self.speak`, Mycroft speaks a given input string.
-
+With `self.speak`, Mycroft speaks a given input string.<br>
 Example:
 ```
 self.speak("Hello, how are you?")
@@ -41,8 +40,7 @@ self.speak("Hello, how are you?")
 
 2. `speak_dialog`:<br>
 [Documentation](https://mycroft-core.readthedocs.io/en/latest/source/mycroft.html#mycroft.MycroftSkill.speak_dialog)<br>
-With `self.speak_dialog, Mycroft speaks a random phrase from a dialog file.
-
+With `self.speak_dialog, Mycroft speaks a random phrase from a dialog file.<br>
 Example:
 ```
 self.speak_dialog("hello.dialog")
@@ -50,8 +48,7 @@ self.speak_dialog("hello.dialog")
 
 3. `get_response`: <br>
 [Documentation](https://mycroft-core.readthedocs.io/en/latest/source/mycroft.html#mycroft.MycroftSkill.get_response)<br>
-If you expect an immediate reponse from the user, use `self.get_response`. It returns the user's reply to you.
-
+If you expect an immediate reponse from the user, use `self.get_response`. It returns the user's reply to you.<br>
 Example:
 ```
 response = self.get_response("What is your favorite animal?")
