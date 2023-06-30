@@ -59,7 +59,7 @@ yes_no = self.ask_yesno("Do you like animals?")
 ```
 
 ## Storing persistent data
-[Documentation](https://mycroft-ai.gitbook.io/docs/skill-development/skill-structure/filesystem)
+[Documentation](https://mycroft-ai.gitbook.io/docs/skill-development/skill-structure/filesystem)<br>
 As the `__init__.py` file is reloaded each time an utterance is a said by the user, no data that is persistent across utterances can be stored in variables there. Instead, you have to write your data to a file if it changes or is updated across utterances. <br>
 It is important that you store data outside the directory your skill is located in if you frequently change it.<br>
 Specifically, you need to use the attribute `self.file_system` which returns the path where Mycroft will look for files. For example, if you want to read the file `example.json` that is stored in that directory, you should do something like this:
