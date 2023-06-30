@@ -11,3 +11,8 @@ nav_order: 1
 {: .warning } 
 > To install Mycroft, you need to have Linux installed.
 
+## Downloading and Installing Mycroft
+
+## Creating your first skill
+
+## Video tutorials
