@@ -23,6 +23,12 @@ You can find the code for the complete game at the [Github repository](https://g
 <iframe src="https://app.sli.do/event/peUt6rKRQkG4Gm1ZE1hKSp/embed/polls/b37f77ee-7328-4a8a-8c89-21f1ff198a80" width="300" height="400"></iframe>
 </details>
 
+
+# The Game
+We want to implement a game played with a voice assistant where you try to guess an animal based on hints. This is how we imagined the structure of the dialogue:
+
+![image](https://github.com/katjakon/katjakon.github.io/blob/main/docs/projects/mycroft-workshop/dialogue.png)
+
 # Credits
-Katja Konermann <br>
-Mikhail Sonkin
+Katja Konermann [E-mail](kako00006@stud.uni-saarland.de)<br>
+Mikhail Sonkin  [E-mail] (miso00001@stud.uni-saarlande.de)
